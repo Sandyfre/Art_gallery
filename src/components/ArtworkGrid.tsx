@@ -14,7 +14,7 @@ const artworks = [
     image: artwork1,
     title: "Abstract Harmony",
     artist: "Elena Rodriguez",
-    price: "$1,200",
+    price:  "\u20B9" + "12,200",
     category: "Abstract",
   },
   {
@@ -22,7 +22,7 @@ const artworks = [
     image: artwork2,
     title: "Mountain Dreams",
     artist: "David Chen",
-    price: "$2,500",
+    price:  "\u20B9" + "13000",
     category: "Landscape",
   },
   {
@@ -30,7 +30,7 @@ const artworks = [
     image: artwork3,
     title: "Contemporary Portrait",
     artist: "Sarah Mitchell",
-    price: "$1,800",
+    price:  "\u20B9" + "14200",
     category: "Figurative",
   },
   {
@@ -38,7 +38,7 @@ const artworks = [
     image: artwork4,
     title: "Urban Expression",
     artist: "Marcus Johnson",
-    price: "$1,600",
+    price:  "\u20B9" + "15600",
     category: "Expressionism",
   },
   {
@@ -46,7 +46,7 @@ const artworks = [
     image: artwork5,
     title: "Floral Symphony",
     artist: "Isabella Romano",
-    price: "$950",
+    price:  "\u20B9" + "18900",
     category: "Flowers",
   },
   {
@@ -54,7 +54,7 @@ const artworks = [
     image: artwork6,
     title: "Geometric Serenity",
     artist: "Alex Turner",
-    price: "$3,200",
+    price:  "\u20B9" + "17800",
     category: "Abstract",
   },
 ];
