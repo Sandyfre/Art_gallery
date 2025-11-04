@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://sandyfre.github.io/Art_gallery/",
+  "homepage": "https://sandyfre.github.io/Art_gallery",
   "scripts": {
     "dev": "vite",
     "deploy": "gh-pages -d dist",
